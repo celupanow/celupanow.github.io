@@ -5,15 +5,16 @@ body {
 }
 
 /* adding background color to the top navigation */
-.topnav {
+nav {
     background-color: #fff;
-    height: 80px;
-    width: 100%;
-    margin: 0px;
+    height: 70px;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: #cccccc;
 }
 
-/* styling the links in the top navigation */
-.topnav a {
+/* styling the links in th top navigation */
+nav a {
     float: right;
     color: #777777;
     text-align: center;
@@ -23,13 +24,13 @@ body {
 }
 
 /* changing the color of the links on hover in the top navigation */
-.topnav a:hover {
+nav a:hover {
     background-color: #ddd;
     color: black;
 }
 
 /*adding a color to the active/current link in the top navigation */
-.topnav a.active {
+nav a.active {
     background-color: #4CAF50;
     color: white;
 }
@@ -40,7 +41,9 @@ body {
     color: white;
     float: left;
     margin-left: 270px;
-    padding: 0px 20px 0px 20px;
+    padding: 20px 20px 20px 20px;
+    font-size: 30px;
+    font-family: 'Georgia', Times, "Times New Roman", serif;
 }
 
 /* style for the About Me box on index */
@@ -48,7 +51,14 @@ body {
     background-color: white;
     margin: auto;
     width: 960px;
-    padding: 0px 0px 0px 0px;
+    padding: 50px 0px 0px 0px;
+    margin-top: 20px;
+}
+
+.about h1 {
+    font-size: 30px;
+    font-family: 'Georgia', Times, "Times New Roman", serif;
+    color: #4aaaa5;
 }
 
 /* style for the About Me picture on index */
