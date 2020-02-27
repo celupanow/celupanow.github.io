@@ -1,19 +1,22 @@
-/* adding style to the body - background image */
+/* adding style to the body - background and general font */
 body {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
     margin: 0;
-    background: url(../images/hotel-wallpaper.png)
+    background: url(../images/concrete_seamless.png)
 }
 
-/* adding background color to the top navigation */
+/* top navigation background, size, border */
 nav {
     background-color: #fff;
     height: 70px;
+    padding-right: 270px;
     border-bottom-width: 2px;
     border-bottom-style: solid;
     border-bottom-color: #cccccc;
 }
 
-/* styling the links in th top navigation */
+/* top navigation links */
 nav a {
     float: right;
     color: #777777;
@@ -23,15 +26,15 @@ nav a {
     font-size: 17px;
 }
 
-/* changing the color of the links on hover in the top navigation */
+/* top navigation links hover style */
 nav a:hover {
     background-color: #ddd;
     color: black;
 }
 
-/*adding a color to the active/current link in the top navigation */
+/* active link in top navigation */
 nav a.active {
-    background-color: #4CAF50;
+    background-color: #4aaaa5;
     color: white;
 }
 
@@ -51,14 +54,20 @@ nav a.active {
     background-color: white;
     margin: auto;
     width: 960px;
-    padding: 50px 0px 0px 0px;
-    margin-top: 20px;
+    padding: 20px 20px 20px 20px;
+    margin-top: 30px;
+    line-height: 1.6;
 }
 
+/* style for the header in the About Me box on index */
 .about h1 {
     font-size: 30px;
     font-family: 'Georgia', Times, "Times New Roman", serif;
     color: #4aaaa5;
+}
+
+hr {
+    border-top-width: 2px;
 }
 
 /* style for the About Me picture on index */
@@ -70,7 +79,15 @@ nav a.active {
 
 /* style for the footer */
 footer {
-    height: 20px;
+    height: 25px;
+    margin-top: 30px;
+    background-color: #666666;
+    text-align: center;
+    color: #dddddd;
+    padding: 25px 0px 0px 0px;
+    border-top-width: 10px;
+    border-top-style: solid;
+    border-top-color: #4aaaa5;
 }
 
 .clearfix::after {
