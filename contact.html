@@ -1,57 +1,53 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contact</title>
+    <link rel="stylesheet" type="text/css" href="assets/css/reset.css">
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Quicksand&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Cormorant+Garamond&display=swap" rel="stylesheet">
 </head>
+
 <body>
 
-    <!--HTML for the top navigation bar
-    Still needs: 
-    logo style (background color, text color, float)
-    link styles (need to change the text colors and float)-->
-    <header>
-        <div class="logo">
-            <h1>Your Name</h1>
-        </div>
-        <div class="topnav">
-            <a class="active" href="contact.html">Contact</a>
-            <a href="portfolio.html">Portfolio</a>
-            <a href="index.html">About</a>
-        </div>
-    </header>
+    <div class="content">
 
-    <!--HTML for the contact form
-    Still needs:
-    text color and style
-    submit button color and style
-    background and box
-    -->
-    <section class="about">
-        <h1>Contact</h1>
-        <hr>
-        <form>
-            <label for="name">Name:</label><br>
-            <input type="text" id="name" name="fname"><br>
-            <label for="email">Email:</label><br>
-            <input type="text" id="email" name="email"><br>
-            <label for="message">Message:</label><br>
-            <input type="text" id="message" name="message"><br>
-            <input type="submit" value="Submit">
-        </form>
-    </section>
+        <!--HTML for the top navigation bar-->
+        <header>
+            <div class="logo">
+                <h1>Christina Lupanow</h1>
+            </div>
+            <nav>
+                <a class="active" href="contact.html">Contact</a>
+                <a href="portfolio.html">Portfolio</a>
+                <a href="index.html">About</a>
+            </nav>
+        </header>
 
-     <!--HTML for the footer section
-    Still needs:
-    the teal bar
-    background color
-    copyright symbol-->
-    <footer>
-        <hr>
+        <!--HTML for the contact form-->
+        <div class="about">
+            <h1>Contact</h1>
+            <hr>
+            <form>
+                <label for="name">Name:</label><br>
+                <input type="text" id="name" name="fname"><br>
+                <label for="email">Email:</label><br>
+                <input type="text" id="email" name="email"><br>
+                <label for="message">Message:</label><br>
+                <input type="text" id="message" name="message"><br>
+                <button type="button">Submit</button>
+            </form>
+        </div>
+    </div>
+
+    <!--HTML for the footer-->
+    <footer class="clearfix" style="clear:both">
         Copyright
     </footer>
 
 </body>
+
 </html>
