@@ -48,6 +48,10 @@ section {
     color: rgb(209, 164, 39);
 }
 
+.projects {
+    padding: 20px;
+}
+
 
 /* font size and padding for p tags */
 p {
@@ -91,28 +95,34 @@ h4, h5 {
     color: rgb(238, 227, 227);
   } 
 
-/* style for the cards on the left */
-  .leftCard {
-    background-color: rgb(24, 34, 35);
-    height: 500px;
-    width: 500px;
-    float: left;
-    margin-left: 100px;
-}
+/* style for the cards */
 
-/* style for the cards on the right */
-.rightCard {
-    float: right;
-    height: 500px;
-    width: 500px;
+.card {
     background-color: rgb(24, 34, 35);
-    margin-right: 100px;
 }
 
 /* style to change the color of the links in the cards */
 .card .card-action a:not(.btn):not(.btn-large):not(.btn-small):not(.btn-large):not(.btn-floating) {
     color: rgb(249, 249, 249);
 }
+
+/* style for card title */
+.card-title {
+    background-color: rgba(24, 34, 35, 0.548);
+}
+  
+@media (max-width: 990px) {
+    .resizeimg {
+      height: auto;
+    }
+  }
+  
+  @media (min-width: 1000px) {
+    .resizeimg {
+      width: auto;
+      height: 350px;
+    }
+  }
 
 .email {
     float: left;
