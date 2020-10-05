@@ -10,7 +10,7 @@ body {
     min-height: 100vh;
     flex-direction: column;
     background-image: url("../images/horizon.jpg");
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-attachment: fixed;
 }
 
