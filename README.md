@@ -5,10 +5,10 @@
  
 <h3 align="center">Christina Lupanow Portfolio</h3>
 <p align="center">
-Features projects with links to deployed applications and GitHub repositories as well as contact information for Christina Lupanow, 
+Features projects with links to deployed applications and GitHub repositories as well as contact information for Christina Lupanow, full stack web developer.
 <br />
 <br />
-<a href="https://celupanow.github.io/celupanow.github.io">View Demo</a>
+<a href="https://celupanow.github.io/">View Demo</a>
 ·
 <a href="https://github.com/celupanow/celupanow.github.io/issues">Report Bug</a>
 ·
@@ -35,21 +35,18 @@ Features projects with links to deployed applications and GitHub repositories as
 
 * [Acknowledgements](#acknowledgements)
 
-  
-  
-  
-
+ 
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
 ![celupanow.github.io](./assets/images/celupanow.github.io.png "celupanow.github.io")
 
-This is just a fun project that allows users to search for fun dessert-themed gifs using buttons. They can add their own or start and stop the gif animation of the results displayed. It also lists the celupanow.github.io API's built in grade for each gif.
+This project was built to showcase full stack web development projects.
 
 ### Built With
 * [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-* [Bootstrap](https://getbootstrap.com/)
+* [Materialize](https://materializecss.com/)
 * [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [jQuery](https://jquery.com)
 * [AJAX](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
@@ -133,5 +130,5 @@ Project Link: [https://github.com/celupanow/celupanow.github.io](https://github.
 
 [product-screenshot]: images/screenshot.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyOTc4NjMxOF19
+eyJoaXN0b3J5IjpbNjIwMjU0NTM4XX0=
 -->
