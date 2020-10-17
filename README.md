@@ -76,7 +76,7 @@ Christina Lupanow - christina@christinalupanow.com
 
   
 
-Project Link: [https://](https://github.com/celupanow/celupanow.github.io)
+Project Link: [http://christinalupanow.com/](http://christinalupanow.com/)
 
 <!-- ACKNOWLEDGEMENTS -->
 
@@ -85,6 +85,7 @@ Project Link: [https://](https://github.com/celupanow/celupanow.github.io)
   
 
 * [GitHub Pages](https://pages.github.com)
+* [
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
@@ -116,5 +117,5 @@ Project Link: [https://](https://github.com/celupanow/celupanow.github.io)
 
 [product-screenshot]: images/screenshot.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNjE4NDkzMCwxNzM3NzQ0MzEyXX0=
+eyJoaXN0b3J5IjpbMTAwMjg1MzUyLDE3Mzc3NDQzMTJdfQ==
 -->
