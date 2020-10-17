@@ -3,16 +3,16 @@
 [![Contributors][contributors-shield]][contributors-url] [![Forks][forks-shield]][forks-url] [![Stargazers][stars-shield]][stars-url] [![Issues][issues-shield]][issues-url] [![LinkedIn][linkedin-shield]][linkedin-url]
 
  
-<h3 align="center">GIPHY</h3>
+<h3 align="center">Christina Lupanow Portfolio</h3>
 <p align="center">
-This application uses the Giphy API to pull gifs and display them based on search parameters. It allows users to add their own search buttons. Gifs are displayed as static and can then be clicked to animate. Click again to return to static.
+Features projects with links to deployed applications and GitHub repositories as well as contact information for Christina Lupanow, 
 <br />
 <br />
-<a href="https://celupanow.github.io/giphy">View Demo</a>
+<a href="https://celupanow.github.io/celupanow.github.io">View Demo</a>
 ·
-<a href="https://github.com/celupanow/giphy/issues">Report Bug</a>
+<a href="https://github.com/celupanow/celupanow.github.io/issues">Report Bug</a>
 ·
-<a href="https://github.com/celupanow/giphy/issues">Request Feature</a>
+<a href="https://github.com/celupanow/celupanow.github.io/issues">Request Feature</a>
 
 </p>
 
@@ -42,9 +42,9 @@ This application uses the Giphy API to pull gifs and display them based on searc
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-![Giphy](./assets/images/giphy.png "Giphy")
+![celupanow.github.io](./assets/images/celupanow.github.io.png "celupanow.github.io")
 
-This is just a fun project that allows users to search for fun dessert-themed gifs using buttons. They can add their own or start and stop the gif animation of the results displayed. It also lists the Giphy API's built in grade for each gif.
+This is just a fun project that allows users to search for fun dessert-themed gifs using buttons. They can add their own or start and stop the gif animation of the results displayed. It also lists the celupanow.github.io API's built in grade for each gif.
 
 ### Built With
 * [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
@@ -53,7 +53,7 @@ This is just a fun project that allows users to search for fun dessert-themed gi
 * [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [jQuery](https://jquery.com)
 * [AJAX](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
-* [Giphy API](https://developers.giphy.com/)
+* [celupanow.github.io API](https://developers.celupanow.github.io.com/)
 
 <!-- GETTING STARTED -->
 
@@ -61,13 +61,13 @@ This is just a fun project that allows users to search for fun dessert-themed gi
 To get a local copy up and running follow these simple steps.
   
 ### Installation
-1. Get a free API Key at https://developers.giphy.com/
+1. Get a free API Key at https://developers.celupanow.github.io.com/
 
 2. Clone the repo
 
 ```sh
 
-git clone https://github.com/celupanow/giphy.git
+git clone https://github.com/celupanow/celupanow.github.io.git
 
 ```
 3. Enter your API in config.js
@@ -81,7 +81,7 @@ var config = "ENTER YOUR API";
 
   
 
-See the [open issues](https://github.com/celupanow/giphy/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/celupanow/celupanow.github.io/issues) for a list of proposed features (and known issues).
 
 <!-- CONTACT -->
 
@@ -93,7 +93,7 @@ Christina Lupanow - christina@christinalupanow.com
 
   
 
-Project Link: [https://github.com/celupanow/giphy](https://github.com/celupanow/giphy)
+Project Link: [https://github.com/celupanow/celupanow.github.io](https://github.com/celupanow/celupanow.github.io)
 
 <!-- ACKNOWLEDGEMENTS -->
 
@@ -107,25 +107,25 @@ Project Link: [https://github.com/celupanow/giphy](https://github.com/celupanow/
 
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/celupanow/giphy.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/celupanow/celupanow.github.io.svg?style=flat-square
 
-[contributors-url]: https://github.com/celupanow/giphy/graphs/contributors
+[contributors-url]: https://github.com/celupanow/celupanow.github.io/graphs/contributors
 
-[forks-shield]: https://img.shields.io/github/forks/celupanow/giphy.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/celupanow/celupanow.github.io.svg?style=flat-square
 
-[forks-url]: https://github.com/celupanow/giphy/network/members
+[forks-url]: https://github.com/celupanow/celupanow.github.io/network/members
 
-[stars-shield]: https://img.shields.io/github/stars/celupanow/giphy.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/celupanow/celupanow.github.io.svg?style=flat-square
 
-[stars-url]: https://github.com/celupanow/giphy/stargazers
+[stars-url]: https://github.com/celupanow/celupanow.github.io/stargazers
 
-[issues-shield]: https://img.shields.io/github/issues/celupanow/giphy.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/celupanow/celupanow.github.io.svg?style=flat-square
 
-[issues-url]: https://github.com/celupanow/giphy/issues
+[issues-url]: https://github.com/celupanow/celupanow.github.io/issues
 
-[license-shield]: https://img.shields.io/github/license/celupanow/giphy.svg?style=flat-square
+[license-shield]: https://img.shields.io/github/license/celupanow/celupanow.github.io.svg?style=flat-square
 
-[license-url]: https://github.com/celupanow/giphy/blob/master/LICENSE.txt
+[license-url]: https://github.com/celupanow/celupanow.github.io/blob/master/LICENSE.txt
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 
@@ -133,5 +133,5 @@ Project Link: [https://github.com/celupanow/giphy](https://github.com/celupanow/
 
 [product-screenshot]: images/screenshot.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzOTA4ODk4Nl19
+eyJoaXN0b3J5IjpbMTMyOTc4NjMxOF19
 -->
