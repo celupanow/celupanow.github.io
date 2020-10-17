@@ -85,7 +85,7 @@ Project Link: [http://christinalupanow.com/](http://christinalupanow.com/)
   
 
 * [GitHub Pages](https://pages.github.com)
-* [
+* [bluehost](https://www.hover.com/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
@@ -117,5 +117,5 @@ Project Link: [http://christinalupanow.com/](http://christinalupanow.com/)
 
 [product-screenshot]: images/screenshot.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMjg1MzUyLDE3Mzc3NDQzMTJdfQ==
+eyJoaXN0b3J5IjpbMjIyOTA5NiwxNzM3NzQ0MzEyXX0=
 -->
