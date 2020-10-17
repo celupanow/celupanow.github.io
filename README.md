@@ -34,7 +34,7 @@ Features projects with links to deployed applications and GitHub repositories as
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-![celupanow.github.io](./assets/images/portfolio.png "Portfolio")
+![Portfolio](./assets/images/portfolio.png "Portfolio")
 
 This project was built to showcase full stack web development projects.
 
@@ -76,7 +76,7 @@ Christina Lupanow - christina@christinalupanow.com
 
   
 
-Project Link: [https://github.com/celupanow/celupanow.github.io](https://github.com/celupanow/celupanow.github.io)
+Project Link: [https://](https://github.com/celupanow/celupanow.github.io)
 
 <!-- ACKNOWLEDGEMENTS -->
 
@@ -116,5 +116,5 @@ Project Link: [https://github.com/celupanow/celupanow.github.io](https://github.
 
 [product-screenshot]: images/screenshot.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NTk2NzgxMCwxNzM3NzQ0MzEyXX0=
+eyJoaXN0b3J5IjpbLTUzNjE4NDkzMCwxNzM3NzQ0MzEyXX0=
 -->
