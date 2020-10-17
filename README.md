@@ -22,17 +22,12 @@ Features projects with links to deployed applications and GitHub repositories as
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-
 	* [Built With](#built-with)
-
 * [Getting Started](#getting-started)
-
 	* [Prerequisites](#prerequisites)
-
 	* [Installation](#installation)
-
+* [Roadmap](#roadmap)
 * [Contact](#contact)
-
 * [Acknowledgements](#acknowledgements)
 
  
@@ -47,10 +42,6 @@ This project was built to showcase full stack web development projects.
 * [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [Materialize](https://materializecss.com/)
-* [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-* [jQuery](https://jquery.com)
-* [AJAX](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
-* [celupanow.github.io API](https://developers.celupanow.github.io.com/)
 
 <!-- GETTING STARTED -->
 
@@ -58,20 +49,15 @@ This project was built to showcase full stack web development projects.
 To get a local copy up and running follow these simple steps.
   
 ### Installation
-1. Get a free API Key at https://developers.celupanow.github.io.com/
 
-2. Clone the repo
+1. Clone the repo
 
 ```sh
 
 git clone https://github.com/celupanow/celupanow.github.io.git
 
 ```
-3. Enter your API in config.js
 
-```JS
-var config = "ENTER YOUR API";
-```
 <!-- ROADMAP -->
 
 ## Roadmap
@@ -130,5 +116,5 @@ Project Link: [https://github.com/celupanow/celupanow.github.io](https://github.
 
 [product-screenshot]: images/screenshot.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIwMjU0NTM4XX0=
+eyJoaXN0b3J5IjpbMTczNzc0NDMxMl19
 -->
