@@ -34,7 +34,7 @@ Features projects with links to deployed applications and GitHub repositories as
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-![celupanow.github.io](./assets/images/celupanow.github.io.png "celupanow.github.io")
+![celupanow.github.io](./assets/images/portfolio.png "Portfolio")
 
 This project was built to showcase full stack web development projects.
 
@@ -116,5 +116,5 @@ Project Link: [https://github.com/celupanow/celupanow.github.io](https://github.
 
 [product-screenshot]: images/screenshot.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNzc0NDMxMl19
+eyJoaXN0b3J5IjpbMTA4NTk2NzgxMCwxNzM3NzQ0MzEyXX0=
 -->
