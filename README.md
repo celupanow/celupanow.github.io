@@ -36,8 +36,6 @@ Features projects with links to deployed applications and GitHub repositories as
 ## About The Project
 ![Portfolio](./assets/images/portfolio.png "Portfolio")
 
-This project was built to showcase full stack web development projects.
-
 ### Built With
 * [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -117,5 +115,6 @@ Project Link: [http://christinalupanow.com/](http://christinalupanow.com/)
 
 [product-screenshot]: images/screenshot.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjYyNDEyMTAsMTczNzc0NDMxMl19
+eyJoaXN0b3J5IjpbMTMwMzc4OTM1MCwtMTM2NjI0MTIxMCwxNz
+M3NzQ0MzEyXX0=
 -->
