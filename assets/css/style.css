@@ -59,6 +59,13 @@ p {
     padding-left: 20px;
 }
 
+/* style for written out email address */
+
+.email {
+  padding-top: 30px;
+  margin-left: 75px;
+}
+
 /* style for the h4 and h5 tags */
 h4, h5 {
     color: white;
