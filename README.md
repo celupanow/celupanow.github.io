@@ -111,10 +111,10 @@ Project Link: [http://christinalupanow.com/](http://christinalupanow.com/)
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 
-[linkedin-url]: www.linkedin.com/in/christinalupanow
+[linkedin-url]: https://www.linkedin.com/in/christinalupanow
 
 [product-screenshot]: images/screenshot.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MTI4MTQ3LDEzMDM3ODkzNTAsLTEzNj
-YyNDEyMTAsMTczNzc0NDMxMl19
+eyJoaXN0b3J5IjpbLTEzMjA5OTAwODQsMTMwMzc4OTM1MCwtMT
+M2NjI0MTIxMCwxNzM3NzQ0MzEyXX0=
 -->
