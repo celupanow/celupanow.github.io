@@ -1,3 +1,9 @@
+/* variables for the main background color and text color */
+:root {
+  --primary-color: rgba(52, 8, 70, 0.767);
+  --text-color: rgb(233, 120, 112);
+}
+
 /* styles so the footer will be sticky */
 html {
     position: relative;
@@ -21,7 +27,7 @@ main {
 
 /* style for the header at the top */
 section {
-      background: rgba(52, 8, 70, 0.767);
+      background: var(--primary-color);
       text-align: center;
       font-family: 'Satisfy', cursive;
       box-shadow: 2px 2px 4px #000000;
@@ -42,16 +48,15 @@ section {
 }
 
 
-  /* style for each container */
+/* style for each container */
 .row {
-    background: rgba(52, 8, 70, 0.767);
-    color: rgb(233, 120, 112);
+    background: var(--primary-color);
+    color: var(--text-color);
 }
 
 .projects {
     padding: 20px;
 }
-
 
 /* font size and padding for p tags */
 p {
@@ -60,7 +65,6 @@ p {
 }
 
 /* style for written out email address */
-
 .email {
   padding-top: 30px;
   margin-left: 75px;
@@ -76,8 +80,8 @@ h4, h5 {
 
 /* style for the sticky footer */
 .page-footer {
-    background: rgba(52, 8, 70, 0.767);
-    color: rgb(233, 120, 112);
+    background: var(--primary-color);
+    color: var(--text-color);
     padding-bottom: 10px;
     margin-top: 10px;
 }
@@ -87,23 +91,22 @@ a:link {
     color: white!important;
   } 
 
-  /* visited link */
+/* visited link */
   a:visited {
     color: gray!important;
   }
   
-  /* mouse over link */
+/* mouse over link */
   a:hover {
-    color: rgb(233, 120, 112)!important;
+    color: var(--text-color)!important;
   }
   
-  /* selected link */
+/* selected link */
   a:active {
     color: white!important;
   } 
 
 /* style for the cards */
-
 .card {
     background-color: rgb(24, 34, 35);
 }
@@ -117,8 +120,6 @@ a:link {
 .card-title {
     background-color: rgba(24, 34, 35, 0.548);
 }
-
-
   
 @media (max-width: 990px) {
     .resizeimg {
